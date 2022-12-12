@@ -1,9 +1,9 @@
 #EXTM3U
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",LANGUAGE="por",NAME="Stereo",DEFAULT=NO,AUTOSELECT=YES,URI="por/por.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",LANGUAGE="por",NAME="Stereo",DEFAULT=NO,AUTOSELECT=YES,URI="https://raw.githubusercontent.com/jotavictsilva/31f15e02d46520a9995b4e0f4f42856d/main/por/por.m3u8"
 #EXTM3U
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",LANGUAGE="eng",NAME="Stereo",DEFAULT=NO,AUTOSELECT=YES,URI="eng/eng.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",LANGUAGE="eng",NAME="Stereo",DEFAULT=NO,AUTOSELECT=YES,URI="https://raw.githubusercontent.com/jotavictsilva/31f15e02d46520a9995b4e0f4f42856d/main/eng/eng.m3u8"
 
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=400000,RESOLUTION=1280x720,AUDIO=aac,SUBTITLES=subs
-720/720p.m3u8
+https://raw.githubusercontent.com/jotavictsilva/31f15e02d46520a9995b4e0f4f42856d/main/720/720p.m3u8
 
